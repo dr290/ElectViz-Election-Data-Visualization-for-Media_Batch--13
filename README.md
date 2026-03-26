@@ -46,4 +46,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Drishti Rathod
 
-Created as part of a learning and academic project.
+Created as part of a Infosys Springboard Virtual Internship 6.0 Project.
