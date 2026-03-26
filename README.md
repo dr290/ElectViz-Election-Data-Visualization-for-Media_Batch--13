@@ -44,6 +44,6 @@ This project was built as part of a data analytics learning process. It shows ho
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Author
+## Drishti Rathod
 
 Created as part of a learning and academic project.
